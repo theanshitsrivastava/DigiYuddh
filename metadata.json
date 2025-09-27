@@ -1,0 +1,5 @@
+{
+  "name": "Digi Yuddh - Digital Marketing Agency",
+  "description": "A modern website for Digi Yuddh, a digital marketing agency, showcasing services, portfolio, and contact information. Built with React, TypeScript, and Tailwind CSS, with a structure designed for potential Supabase integration for dynamic content management.",
+  "requestFramePermissions": []
+}
