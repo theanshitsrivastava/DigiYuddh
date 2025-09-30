@@ -36,7 +36,7 @@ const Footer: React.FC = () => {
           </div>
           <div>
             <h3 className="text-lg font-semibold text-white mb-4">Connect With Us</h3>
-            <p className="mb-1">123 Digital Avenue, Web City, ST 54321</p>
+            <p className="mb-1">Gorakhpur</p>
             <p className="mb-1">Email: <a href="mailto:digiyuddh.in" className="hover:text-brand-accent transition-colors">digiyuddh.in</a></p>
             <p className="mb-4">Phone: <a href="tel:+91 9140380954" className="hover:text-brand-accent transition-colors"> +91 9140380954</a></p>
             <div className="flex space-x-4">

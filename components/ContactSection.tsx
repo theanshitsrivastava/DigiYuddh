@@ -101,8 +101,8 @@ const ContactSection: React.FC = () => {
           </form>
           <div className="mt-12 text-center">
             <h3 className="text-xl font-semibold text-brand-dark-blue mb-4">Or Reach Us Directly</h3>
-            <p className="text-brand-dark-grey mb-2">Email: <a href="mailto:info@digiyuddh.com" className="text-brand-accent hover:underline">info@digiyuddh.com</a></p>
-            <p className="text-brand-dark-grey">Phone: <a href="tel:+1234567890" className="text-brand-accent hover:underline">(123) 456-7890</a></p>
+            <p className="text-brand-dark-grey mb-2">Email: <a href="digiyuddh@gmail.com" className="text-brand-accent hover:underline">digiyuddh@gmail.com</a></p>
+            <p className="text-brand-dark-grey">Phone: <a href="tel: +91 9140380954" className="text-brand-accent hover:underline"> +91 9140380954</a></p>
           </div>
         </div>
       </div>

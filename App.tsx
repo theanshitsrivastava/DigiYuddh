@@ -3,6 +3,7 @@ import React from 'react';
 import Navbar from './components/Navbar';
 import HeroSection from './components/HeroSection';
 import ServicesSection from './components/ServicesSection';
+import PricingPlansSection from './components/PricingPlansSection';
 import AboutSection from './components/AboutSection';
 import PortfolioSection from './components/PortfolioSection';
 import TestimonialsSection from './components/TestimonialsSection';
@@ -15,7 +16,8 @@ const App: React.FC = () => {
       <Navbar />
       <main>
         <HeroSection />
-        <ServicesSection />
+  <ServicesSection />
+  <PricingPlansSection />
         <AboutSection />
         <PortfolioSection />
         <TestimonialsSection />
