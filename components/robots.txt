@@ -1,0 +1,7 @@
+# robots.txt file for DigiYuddh application
+# This file specifies rules for web crawlers and bots.
+# The "User-agent: *" directive applies to all web crawlers.
+# Additional rules can be added to allow or disallow access to specific parts of the site.
+User-agent: *
+Sitemap: https://digiyuddh.com/sitemap.xml
+Allow: /
